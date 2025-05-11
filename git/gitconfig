@@ -1,0 +1,13 @@
+[user]
+	email = davidherzlos@gmail.com
+	name = David OC
+[core]
+	editor = nvim
+	fileMode = false
+[color]
+	status = auto
+[filter "lfs"]
+	clean = git-lfs clean -- %f
+	smudge = git-lfs smudge -- %f
+	process = git-lfs filter-process
+	required = true
