@@ -13,3 +13,7 @@
 [submodule "tmux/.config/tmux/rose-pine-tmux"]
 	path = tmux/.config/tmux/rose-pine-tmux
 	url = git@github.com:rose-pine/tmux.git
+[submodule "nvim/.config/nvim"]
+	path = nvim/.config/nvim
+	url = git@github.com:davidherzlos/moodle-nvim.git
+	branch = experimental
