@@ -10,3 +10,6 @@
 [submodule "tmux/.config/tmux/plugins/tpm"]
 	path = tmux/.config/tmux/plugins/tpm
 	url = git@github.com:tmux-plugins/tpm.git
+[submodule "tmux/.config/tmux/rose-pine-tmux"]
+	path = tmux/.config/tmux/rose-pine-tmux
+	url = git@github.com:rose-pine/tmux.git
