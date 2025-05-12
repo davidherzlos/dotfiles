@@ -4,3 +4,6 @@
 [submodule "tmux/.config/tmux/plugins/tmux-resurrect"]
 	path = tmux/.config/tmux/plugins/tmux-resurrect
 	url = git@github.com:tmux-plugins/tmux-resurrect.git
+[submodule "tmux/.config/tmux/plugins/tmux-sensible"]
+	path = tmux/.config/tmux/plugins/tmux-sensible
+	url = git@github.com:tmux-plugins/tmux-sensible.git
