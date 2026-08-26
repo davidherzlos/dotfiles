@@ -7,9 +7,10 @@ name = "tokyo-night"
 auto_switch = true
 
 [ui]
-tab_bar_position = "bottom"
+tab_bar_position = "top"
 hide_tab_bar_when_single_tab = true
 sidebar_collapsed_mode = "hidden"
 
+agent_panel_sort = "priority"
 [ui.toast]
 delivery = "system"
